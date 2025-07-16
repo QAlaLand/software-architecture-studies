@@ -4,7 +4,8 @@ This repository gathers materials, notes, and practical examples on essential to
 ---
 
 ### 1. Types of Software Architecture
-- **Monolithic**  
+
+- [**Monolithic**](./types%20of%20software%20architecture//Monolithic%20Architecture.md)
   Understanding how to test applications with high coupling and the challenges of integrated testing.
 
 - **Microservices**  
