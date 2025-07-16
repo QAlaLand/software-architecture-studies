@@ -1,10 +1,7 @@
-# QA Studies: Software Architecture and Testing Strategies
-
+# 🧱 Software architecture topics for QA
 This repository gathers materials, notes, and practical examples on essential topics for QA professionals focusing on automation, software architecture, and advanced testing strategies.
 
 ---
-
-## 🧱 Software Architecture Topics 
 
 ### 1. Types of Software Architecture
 - **Monolithic**  
